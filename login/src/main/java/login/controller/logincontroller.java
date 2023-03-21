@@ -11,7 +11,5 @@ public class logincontroller {
 		
 	}
 }
-///ykuykyikyiyiyiekbhkghihkb
-///liugugkufuyfkhfktuyf
-//gduiasgciugilgcilblebu
-//uihiuuhguiaghuihauhi
+///abc
+///abc
