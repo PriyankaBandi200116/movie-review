@@ -6,7 +6,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.stereotype.Component;
 
 @SpringBootApplication
-@ComponentScan
+//@ComponentScan
 public class SpringBootUploadImageApplication {
 
 	public static void main(String[] args) {
