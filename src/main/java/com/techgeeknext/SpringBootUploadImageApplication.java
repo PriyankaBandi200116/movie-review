@@ -7,6 +7,7 @@ import org.springframework.stereotype.Component;
 
 @SpringBootApplication
 //@ComponentScan
+//hfdfghjkljhg
 public class SpringBootUploadImageApplication {
 
 	public static void main(String[] args) {
